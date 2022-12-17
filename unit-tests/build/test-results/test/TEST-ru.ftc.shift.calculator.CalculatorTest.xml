@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.ftc.shift.calculator.CalculatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-12-17T11:56:27" hostname="ADMIN-PC" time="0.022">
+  <properties/>
+  <testcase name="РљРѕСЂСЂРµРєС‚РЅРѕ СЃСѓРјРјРёСЂСѓРµС‚ С‡РёСЃР»Р°" classname="ru.ftc.shift.calculator.CalculatorTest" time="0.018"/>
+  <testcase name="Р’РѕР·РІСЂР°С‰Р°РµС‚ РѕС€РёР±РєСѓ, РµСЃР»Рё РїРµСЂРµРґР°РЅС‹ РЅРµ С‡РёСЃР»Р°" classname="ru.ftc.shift.calculator.CalculatorTest" time="0.002"/>
+  <testcase name="РљРѕСЂСЂРµРєС‚РЅРѕ СЃСѓРјРјРёСЂСѓРµС‚ РѕС‚СЂРёС†Р°С‚РµР»СЊРЅС‹Рµ С‡РёСЃР»Р°" classname="ru.ftc.shift.calculator.CalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

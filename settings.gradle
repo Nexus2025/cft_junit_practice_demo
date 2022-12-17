@@ -1,0 +1,3 @@
+rootProject.name = 'cft_junit_practice_demo'
+include 'unit-tests'
+
